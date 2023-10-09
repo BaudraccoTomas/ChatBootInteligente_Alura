@@ -1,3 +1,6 @@
+https://github.com/BaudraccoTomas/ChatBootInteligente_Alura/blob/main/Challenge_4.png
+https://raw.githubusercontent.com/BaudraccoTomas/ChatBootInteligente_Alura/main/Challenge_4.png
+
 link de todos los datos utilizados para trabajar:
 https://drive.google.com/drive/folders/1SUsJY0F2HM6pGfSjlzcRW73GD62lWnYc?usp=drive_link
 
