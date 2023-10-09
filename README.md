@@ -1,7 +1,9 @@
-https://github.com/BaudraccoTomas/ChatBootInteligente_Alura/blob/main/Challenge_4.png
-https://raw.githubusercontent.com/BaudraccoTomas/ChatBootInteligente_Alura/main/Challenge_4.png
+https://github.com/BaudraccoTomas/ChatBootInteligente_Alura/blob/main/Challenge_4.png \n
 
-link de todos los datos utilizados para trabajar:
+<span>![</span><span>Insignia por haber completado el Challenge 4</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/BaudraccoTomas/ChatBootInteligente_Alura/main/Challenge_4.png</span><span>)</span>
+#aluraChallengeChatBotInteligente.
+
+Link de todos los datos utilizados para trabajar: \n
 https://drive.google.com/drive/folders/1SUsJY0F2HM6pGfSjlzcRW73GD62lWnYc?usp=drive_link
 
 Vamos a contruir un Chatbot Inteligente capaz de interpretar el lenguaje humano y generar respuestas coherentes con tu propia información, ¿interesante verdad?, aqui te proporciono el paso a paso que deberás realizar:
