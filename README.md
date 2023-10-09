@@ -1,6 +1,6 @@
 https://github.com/BaudraccoTomas/ChatBootInteligente_Alura/blob/main/Challenge_4.png \n
 
-<span>![</span><span>Insignia por haber completado el Challenge 4</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/BaudraccoTomas/ChatBootInteligente_Alura/main/Challenge_4.png</span><span>)</span>
+![Image text]([https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg](https://github.com/BaudraccoTomas/ChatBootInteligente_Alura/blob/main/Challenge_4.png))
 #aluraChallengeChatBotInteligente.
 
 Link de todos los datos utilizados para trabajar: \n
