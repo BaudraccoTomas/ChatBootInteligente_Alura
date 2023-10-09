@@ -1,4 +1,5 @@
-¿Estás preparado? He escogido para tí un gran proyecto, que va a necesitar de todos tus conocimientos aprendidos en el Bootcamp 😉
+
+
 
 Vamos a contruir un Chatbot Inteligente capaz de interpretar el lenguaje humano y generar respuestas coherentes con tu propia información, ¿interesante verdad?, aqui te proporciono el paso a paso que deberás realizar:
 
