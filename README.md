@@ -1,5 +1,5 @@
-
-
+link de todos los datos utilizados para trabajar:
+https://drive.google.com/drive/folders/1SUsJY0F2HM6pGfSjlzcRW73GD62lWnYc?usp=drive_link
 
 Vamos a contruir un Chatbot Inteligente capaz de interpretar el lenguaje humano y generar respuestas coherentes con tu propia información, ¿interesante verdad?, aqui te proporciono el paso a paso que deberás realizar:
 
